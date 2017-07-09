@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TesteComponent implements OnInit {
 
-  minhaVariavel: '';
+  minhaVariavel: string;
 
   constructor() { }
 
